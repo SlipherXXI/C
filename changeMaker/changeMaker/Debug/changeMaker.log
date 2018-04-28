@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\rslip\source\repos\changemaker\changemaker\main.cpp(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rslip\source\repos\changemaker\changemaker\main.cpp(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rslip\source\repos\changemaker\changemaker\main.cpp(57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rslip\source\repos\changemaker\changemaker\main.cpp(65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rslip\source\repos\changemaker\changemaker\main.cpp(73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rslip\source\repos\changemaker\changemaker\main.cpp(81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  changeMaker.vcxproj -> C:\Users\rslip\source\repos\changeMaker\Debug\changeMaker.exe
